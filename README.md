@@ -74,3 +74,7 @@ cd frontend/client
 npm install
 npm run dev
 
+👨‍💻 Author
+Tejas Maheshwari
+📧 [tejasm229@gmail.com]
+🔗 GitHub: github.com/tejasma229
